@@ -25,9 +25,9 @@
 
 **Languages:** Java 21, SQL, JavaScript  
 **Frameworks:** Spring Boot 3, Spring Security, Spring AI  
-**Databases:** PostgreSQL, Redis  
+**Databases:** MySQL, PostgreSQL, Redis  
 **Infrastructure:** Kafka, Docker, Flyway, Prometheus, ELK Stack, Jaeger  
-**Payments:** Razorpay (Route, Webhooks, UPI Intent)  
+**Payments:** Razorpay (Route, Webhooks)  
 **Tools:** Git, IntelliJ IDEA, Postman
 
 ---
